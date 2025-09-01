@@ -109,10 +109,11 @@ streamlit run dashboards/app.py
 3. Develop a mobile application for real-time alerts.
 
 ### 👩‍💻 Author
-Name - Aditya
-LinkedIn: https://www.linkedin.com/in/aditya-akuskar-27b43533a/  
+Name - Aditya Sharma
+LinkedIn:  www.linkedin.com/in/aditya-sharma-722a51256 
 
-GitHub: https://github.com/Adity-star/
+GitHub: https://github.com/adityashrma2003
+
 
 
 
